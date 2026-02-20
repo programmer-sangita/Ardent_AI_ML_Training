@@ -108,8 +108,7 @@ python emotion_detection.py
 
 ## 📸 Demo
 
-> Real-time detection draws a **green bounding box** around detected faces and displays the predicted emotion label above the box.
-
+![Uploading image.png…]()
 ---
 
 ## 🔮 Future Improvements
